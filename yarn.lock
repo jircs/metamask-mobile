@@ -8865,11 +8865,6 @@ adbkit-apkreader@^3.1.2:
     debug "~4.1.1"
     yauzl "^2.7.0"
 
-adm-zip@0.5.9:
-  version "0.5.9"
-  resolved "https://registry.yarnpkg.com/adm-zip/-/adm-zip-0.5.9.tgz#b33691028333821c0cf95c31374c5462f2905a83"
-  integrity sha512-s+3fXLkeeLjZ2kLjCBwQufpI5fuN+kIGBxu6530nVQZGVol0d7Y/M88/xw9HGGUcJjKf8LutN3VPRUBq6N7Ajg==
-
 aes-js@3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/aes-js/-/aes-js-3.0.0.tgz#e21df10ad6c2053295bcbb8dab40b09dbea87e4d"
@@ -23475,16 +23470,14 @@ react-native-view-shot@^3.1.2:
   resolved "https://registry.yarnpkg.com/react-native-view-shot/-/react-native-view-shot-3.1.2.tgz#8c8e84c67a4bc8b603e697dbbd59dbc9b4f84825"
   integrity sha512-9u9fPtp6a52UMoZ/UCPrCjKZk8tnkI9To0Eh6yYnLKFEGkRZ7Chm6DqwDJbYJHeZrheCCopaD5oEOnRqhF4L2Q==
 
-react-native-webrtc@^106.0.0-beta.7:
-  version "106.0.0-beta.7"
-  resolved "https://registry.yarnpkg.com/react-native-webrtc/-/react-native-webrtc-106.0.0-beta.7.tgz#c333c2a57a5fd2c1ca35f4b401912a95502d850b"
-  integrity sha512-GoIl/99BgVouFCb0gc9BfboPm6tOAQ1skHmpZR6CDtPxCbRxt8pEZXRiRxfvW9LbOm6yTpbSe2DK/kQrffZN3w==
+react-native-webrtc@^111.0.3:
+  version "111.0.6"
+  resolved "https://registry.yarnpkg.com/react-native-webrtc/-/react-native-webrtc-111.0.6.tgz#dc8fdc94b2d42d960182e41d36010033811fb750"
+  integrity sha512-uxaczOCsSOe3Olzg4w9PJpK1T+Kv45aerNlcehWClvTZ3NqSebarPuKKnrd1uuFK5bb8TVvWvq5h5qZMa2pNUw==
   dependencies:
-    adm-zip "0.5.9"
     base64-js "1.5.1"
     debug "4.3.4"
     event-target-shim "6.0.2"
-    tar "6.1.11"
 
 react-native-webview@11.13.0:
   version "11.13.0"
@@ -25898,7 +25891,7 @@ tar-stream@^2.1.0, tar-stream@^2.1.4, tar-stream@^2.2.0:
     inherits "^2.0.3"
     readable-stream "^3.1.1"
 
-tar@6.1.11, tar@^6.0.2:
+tar@^6.0.2:
   version "6.1.11"
   resolved "https://registry.yarnpkg.com/tar/-/tar-6.1.11.tgz#6760a38f003afa1b2ffd0ffe9e9abbd0eab3d621"
   integrity sha512-an/KZQzQUkZCkuoAA64hM92X0Urb6VpRhAFllDzz44U2mcD5scmT3zBc4VgVpkugF580+DQn8eAFSyoQt0tznA==
