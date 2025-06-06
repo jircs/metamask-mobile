@@ -144,7 +144,7 @@
   },
   "dependencies": {
     "@consensys/on-ramp-sdk": "1.22.0",
-    "@eth-optimism/contracts": "0.0.0-2021919175625",
+    "@eth-optimism/contracts": "0.0.1",
     "@ethereumjs/common": "^2.3.1",
     "@ethereumjs/tx": "^3.2.1",
     "@ethersproject/abi": "^5.7.0",
@@ -198,7 +198,7 @@
     "@walletconnect/react-native-compat": "^2.9.0",
     "@walletconnect/se-sdk": "1.5.0",
     "@walletconnect/utils": "^2.9.0",
-    "appium-adb": "^9.11.4",
+    "appium-adb": "^12.4.3",
     "asyncstorage-down": "4.2.0",
     "axios": "^0.26.1",
     "base-64": "1.0.0",
